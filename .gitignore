@@ -1,0 +1,17 @@
+src/config.json
+data.json
+data.csv
+data.xlsx
+*lock.data*
+general_data.txt
+output
+main.exe
+main.spec
+.venv
+_internal
+.idea
+src/build
+src/dist
+src/*.c
+src/*-linux-gnu.so
+__pycache__/

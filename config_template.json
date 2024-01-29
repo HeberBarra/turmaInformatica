@@ -1,0 +1,17 @@
+{
+  "first_comment": "the first status must be the most positive one, and only one that can't have dependencies",
+  "second_comment": "the last status must be the most negative one, and will selected if the dependencies max is surpassed",
+  "primeiro comentário": "o primeiro status deve ser o mais positivo, e o único que não pode ter dependências",
+  "segundo comentário": "o último status deve ser o mais negativo, e será selecionado caso o máximo de dependências seja ultrapassado",
+  "possible_statuses": [],
+  "possible_groups": [],
+  "max_dependencies": 0,
+  "data_directory": "path/to/data/directory",
+  "third_comment": "the filepath do the data directory will be included automatically in the filepaths below, don't include manually the filepath",
+  "terceiro comentário": "o caminho até o diretório data será incluido automaticamente nos caminhos abaixo, não o inclua manualmente",
+  "general_data_filepath": "path/to/general_data",
+  "json_filepath": "path/to/json",
+  "csv_filepath": "path/to/csv",
+  "xlsx_filepath": "path/to/xlsx",
+  "sheet name": ""
+}
